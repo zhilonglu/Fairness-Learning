@@ -10,3 +10,4 @@ Recently, more and more researchers are turning into fairness learning, resource
 
 ## Others
 * [Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned](https://sites.google.com/view/kdd19-fairness-tutorial)
+* [Algorithmic Fairness](http://fairness.haverford.edu/press.html)
